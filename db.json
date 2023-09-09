@@ -17,6 +17,12 @@
       "text": "Grocery shopping",
       "day": "Feb 7th at 3:30pm",
       "reminder": true
+    },
+    {
+      "text": "Coding Interview Prep",
+      "day": "Sep 11th at 9:00 am",
+      "reminder": true,
+      "id": 4
     }
   ]
 }
